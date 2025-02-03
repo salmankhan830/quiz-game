@@ -1,0 +1,1 @@
+The program will present the user with a set of multiple-choice or true/false questions and will evaluate the user's answers. At the end of the quiz, the program will display the total score and provide feedback based on the performance.
